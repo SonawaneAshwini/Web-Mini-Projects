@@ -7,8 +7,8 @@ A web application that generates a color palette and allows users to pick and co
 - Responsive design for different screen sizes.
 
 ## Demo
-![image](https://github.com/user-attachments/assets/61fa03a1-aad4-43ce-a4a4-3116b66a92b7)
 [Link to demo](https://codepen.io/Ashwini-Sonawane/pen/dyBWwBK).
+![image](https://github.com/user-attachments/assets/30ceec85-daa3-4ab2-a774-766bd08cdcb9)
 
 ## Installation
 1. Clone the repository:
