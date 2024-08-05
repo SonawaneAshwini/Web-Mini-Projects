@@ -12,7 +12,7 @@ Here is a list of the projects included in this repository:
 
 | **No.** | **Name** |  **Demo** |
 | ------- | -------- | -------- | 
-|  **01** | **Color Palette Picker**  | [Link](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Color%20Palette%20Picker) | 
+|  **01** | **Color Palette Picker**  | [Link](https://codepen.io/Ashwini-Sonawane/pen/dyBWwBK) | 
 |  **02** | **Countdown Timer**  | [Link](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Countdown%20Timer) | 
 
 
