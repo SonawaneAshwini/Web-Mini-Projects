@@ -14,65 +14,77 @@ Here is a list of the projects included in this repository:
 | ------- | -------- | -------- | 
 |  **01** | **   **  | [Link]() | 
 
-## How to Run
 
-To run these projects locally, follow these steps:
+# How to Run
+To run any of these projects, follow these general steps:
 
-1. Clone the repository to your local machine:
+### 1. Clone the Repository:
 
-    ```bash
-    git clone https://github.com/yourusername/Web-Mini-Projects.git
-    ```
+  ```sh
+git clone https://github.com/your-username/repository-name.git
+cd repository-name
+  ```
 
-2. Navigate to the project directory:
+### 2. Compile and Execute:
+Each project typically includes a 'README.md' file with specific instructions on how to compile and run the program. Navigate to the projectdirectory and follow the instructions provided in the README.md file.
+Replace repository-name with the actual repository name and executable_name with the name of the compiled executable specific to each project.
 
-    ```bash
-    cd Web-Mini-Projects/Project-Name
-    ```
 
-3. Open the `index.html` file in your web browser to view and run the project.
+### 3. General Steps:
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Node.js (for backend projects)
-- Express (for backend projects)
-- Socket.io (for real-time applications)
-- Various APIs
+- Navigate to the project directory.
+
+- Compile the program using a C compiler (e.g., gcc).
+
+- Execute the compiled executable.
+
+
+### Example:
+
+ ```sh
+cd attendance-monitoring-system
+gcc main.c -o attendance
+./attendance
+ ```
+
+Replace repository-name with the actual repository name for each project.
+
 
 ## Prerequisites
-Before running these projects, ensure you have the following installed on your machine:
+Make sure you have a C compiler installed (e.g., GCC). Some projects may require additional libraries or software, which will be specified in their respective folders.
 
-- A web browser (e.g., Chrome, Firefox, Safari)
-- A text editor or IDE (e.g., VS Code, Sublime Text)
 
-For certain projects that may involve additional tooling, follow any specific instructions provided in the project's subfolder.
 
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
-1. Go [**`here`**](https://github.com/ShravanDalavi/C_ProgrammingProjects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/shravandalavi/C_ProgrammingProjects/archive/refs/heads/main.zip).
+1. Go [**`here`**](https://github.com/SonawaneAshwini/C_ProgrammingProjects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**]().
 
-  ![image](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/assets/172488772/fe6f519f-afbd-49d1-9efc-5f6b5f234340)
-  
-2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.    
+ ![Screenshot (360)](https://github.com/SonawaneAshwini/C_ProgrammingProjects/assets/172588428/0def247f-638c-4eee-87b6-b97225690609)
+
+
+
+2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
+    
 3. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
   
     **`Kernel > Restart & Clear Output`**
     
 This will clear all the outputs and now you can understand each statement and learn interactively.
-<br>
-If you have git and you know how to use it, you can also clone the repository instead of downloading a zip and extracting it. An advantage with doing it this way is that you don't need to download the whole tutorial again to get the latest version of it, all you need to do is to pull with git and run ipython notebook again.
-## Licence 📜
-You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
+
+## License 📜
+This project is licensed under the MIT License. See the [LICENSE file](https://github.com/SonawaneAshwini/C-Mini-Projects/blob/main/LICENSE) for details.
+
+
 ## Contributors ✨
+
+- Ashwini Sonawane
+  - Contact: ashwinisonawane9853@gmail.com
+  - GitHub: [Profile](https://github.com/SonawaneAshwini)
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
-  - GitHub: [Profile](https://github.com/ShravanDalavi)
-- Ashwini Sonawane
-  - Contact: ashwinisonawane@gmail.com
-  - GitHub:  [Profile](https://github.com/SonawaneAshwini)
-    
-**If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/C_ProgrammingProjects).**
+  - GitHub:[Profile]( https://github.com/ShravanDalavi)
+
+
+**If you like this tutorial, please [give it a ⭐ star](https://github.com/SonawaneAshwini/C-Mini-Projects).**
 
 **Thank you for visiting my repository! I hope you find my projects interesting and useful. 😊**
