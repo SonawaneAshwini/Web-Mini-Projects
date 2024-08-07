@@ -73,7 +73,7 @@ Make sure you have a C compiler installed (e.g., GCC). Some projects may require
 This will clear all the outputs and now you can understand each statement and learn interactively.
 
 ## License 📜
-This project is licensed under the MIT License. See the [LICENSE file](https://github.com/SonawaneAshwini/C-Mini-Projects/blob/main/LICENSE) for details.
+This project is licensed under the MIT License. See the [LICENSE file](https://github.com/SonawaneAshwini/Web-Mini-Projects/blob/main/LICENSE) for details.
 
 
 ## Contributors ✨
