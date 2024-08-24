@@ -7,6 +7,8 @@ Display images in a grid layout.
 Responsive design.
 ## Demo
 [Link to demo](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX)
+![image](https://github.com/user-attachments/assets/ddf32d6d-2d29-4129-9d55-1b0334673aba)
+
 
 ## Installation
 1. Clone the repository:
