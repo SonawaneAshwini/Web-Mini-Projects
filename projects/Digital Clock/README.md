@@ -8,7 +8,7 @@ A simple digital clock that displays the current time based on the selected time
 - Easy to customize.
 
 ## Demo
-[Link to demo]([https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG)
+[Link to demo](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG)
 
 ## Installation
 
