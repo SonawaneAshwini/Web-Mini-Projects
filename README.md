@@ -63,7 +63,6 @@ Make sure you have a C compiler installed (e.g., GCC). Some projects may require
  ![Screenshot (360)](https://github.com/SonawaneAshwini/C_ProgrammingProjects/assets/172588428/0def247f-638c-4eee-87b6-b97225690609)
 
 
-
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
 3. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
