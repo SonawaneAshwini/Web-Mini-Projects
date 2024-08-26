@@ -14,6 +14,7 @@ Here is a list of the projects included in this repository:
 |  **03** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
 |  **04** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
 
+
 # How to Run
 To run any of these projects, follow these general steps:
 
