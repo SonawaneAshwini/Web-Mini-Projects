@@ -13,7 +13,7 @@ Here is a list of the projects included in this repository:
 |  **02** | [**Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Countdown%20Timer)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/xxodMKp) | 
 |  **03** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
 |  **04** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
-|  **05** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
+|  **05** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link]() | 
 
 
 # How to Run
