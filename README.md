@@ -13,7 +13,6 @@ Here is a list of the projects included in this repository:
 |  **04** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
 |  **05** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link]() | 
 
-
 # How to Run
 To run any of these projects, follow these general steps:
 
