@@ -9,10 +9,11 @@ Here is a list of the projects included in this repository:
 | **No.** | **Name** |  **Demo** |
 | ------- | -------- | -------- | 
 |  **01** | [**Color Palette Picker**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Color%20Palette%20Picker) | [Link](https://codepen.io/Ashwini-Sonawane/pen/dyBWwBK) | 
-|  **02** | [**Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Countdown%20Timer)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/xxodMKp) | 
+|  **02** | [**Countdown Timer**] (https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Countdown%20Timer)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/xxodMKp) | 
 |  **03** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
 |  **04** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
-|  **05** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link]() | 
+|  **05** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link]() |
+|  **06** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link]() |
 
 # How to Run
 To run any of these projects, follow these general steps:
