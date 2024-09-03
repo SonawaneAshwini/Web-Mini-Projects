@@ -66,7 +66,6 @@ This will clear all the outputs and now you can understand each statement and le
 ## License 📜
 This project is licensed under the MIT License. See the [LICENSE file](https://github.com/SonawaneAshwini/Web-Mini-Projects/blob/main/LICENSE) for details.
 
-
 ## Contributors ✨
 
 - Ashwini Sonawane
