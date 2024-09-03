@@ -51,6 +51,8 @@ Before running these projects, ensure you have the following installed on your m
 - A web browser (e.g., Chrome, Firefox, Safari)
 - A text editor or IDE (e.g., VS Code, Sublime Text)
 
+For certain projects that may involve additional tooling, follow any specific instructions provided in the project's subfolder.
+
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
 1. Go [**`here`**](https://github.com/SonawaneAshwini/Web-Mini-Projects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/SonawaneAshwini/Web-Mini-Projects/archive/refs/heads/main.zip).
