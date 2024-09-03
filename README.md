@@ -38,7 +38,6 @@ Replace repository-name with the actual repository name and executable_name with
 
 
 ### Example:
-
  ```sh
 cd attendance-monitoring-system
 gcc main.c -o attendance
