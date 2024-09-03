@@ -20,7 +20,6 @@ Here is a list of the projects included in this repository:
 To run any of these projects, follow these general steps:
 
 ### 1. Clone the Repository:
-
   ```sh
 git clone https://github.com/your-username/repository-name.git
 cd repository-name
