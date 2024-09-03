@@ -16,34 +16,29 @@ Here is a list of the projects included in this repository:
 |  **05** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link]() |
 |  **06** | [**Password Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link]() |
 
-# How to Run
-To run any of these projects, follow these general steps:
+## How to Run
+To run these projects locally, follow these steps:
 
-### 1. Clone the Repository:
-  ```sh
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
-  ```
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/yourusername/Web-Mini-Projects.git
+    ```
 
-### 2. Compile and Execute:
-Each project typically includes a 'README.md' file with specific instructions on how to compile and run the program. Navigate to the projectdirectory and follow the instructions provided in the README.md file.
-Replace repository-name with the actual repository name and executable_name with the name of the compiled executable specific to each project.
+2. Navigate to the project directory:
+    ```bash
+    cd Web-Mini-Projects/Project-Name
+    ```
 
-### 3. General Steps:
-- Navigate to the project directory.
+3. Open the `index.html` file in your web browser to view and run the project.
 
-- Compile the program using a C compiler (e.g., gcc).
-
-- Execute the compiled executable.
-
-### Example:
- ```sh
-cd attendance-monitoring-system
-gcc main.c -o attendance
-./attendance
- ```
-
-Replace repository-name with the actual repository name for each project.
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Node.js (for backend projects)
+- Express (for backend projects)
+- Socket.io (for real-time applications)
+- Various APIs
 
 ## Prerequisites
 Before running these projects, ensure you have the following installed on your machine:
