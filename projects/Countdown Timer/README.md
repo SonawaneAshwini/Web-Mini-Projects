@@ -1,6 +1,5 @@
 # Countdown Timer
 A simple and customizable countdown timer built with HTML, CSS, and JavaScript.
-
 ## Features
 Set a countdown timer for a specific duration.
 Display days, hours, minutes, and seconds remaining.
