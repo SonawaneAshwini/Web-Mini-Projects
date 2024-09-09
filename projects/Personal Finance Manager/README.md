@@ -65,7 +65,9 @@ You can customize the application according to your needs:
 ## File Structure
 
 expense-tracker/
+
 │
+
 ├── index.html # The main HTML file
 
 ├── style.css # The CSS file for styling the application
