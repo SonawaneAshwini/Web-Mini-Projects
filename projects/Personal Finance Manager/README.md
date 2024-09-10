@@ -17,7 +17,6 @@ This is a simple web-based Personal Finance Manager application that helps you t
 
 ## Installation
 1. **Clone the repository:**
-
     ```sh
     git clone https://github.com/yourusername/expense-tracker.git
     ```
