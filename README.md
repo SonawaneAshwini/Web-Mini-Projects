@@ -67,7 +67,6 @@ If you have git and you know how to use it, you can also clone the repository in
 This project is licensed under the MIT License. See the [LICENSE file](https://github.com/SonawaneAshwini/Web-Mini-Projects/blob/main/LICENSE) for details.
 
 ## Contributors ✨
-
 - Ashwini Sonawane
   - Contact: ashwinisonawane9853@gmail.com
   - GitHub: [Profile](https://github.com/SonawaneAshwini)
