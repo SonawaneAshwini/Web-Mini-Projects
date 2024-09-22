@@ -13,6 +13,9 @@ A simple and intuitive web-based notes app.
 ## Demo
 [Link to demo]()
 
+![image](https://github.com/user-attachments/assets/9c36e4ef-6a2a-4f3e-ab33-d154e5e9c942)
+
+
 ## Installation
 1. **Clone the Repository:**
     ```sh
