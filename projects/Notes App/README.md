@@ -11,7 +11,7 @@ A simple and intuitive web-based notes app.
 - User-friendly Interface: Clean and intuitive interface for easy note-taking.
 
 ## Demo
-[Link to demo]()
+[Link to demo](https://codepen.io/Ashwini-Sonawane/pen/rNEXaRe)
 
 ![image](https://github.com/user-attachments/assets/9c36e4ef-6a2a-4f3e-ab33-d154e5e9c942)
 
