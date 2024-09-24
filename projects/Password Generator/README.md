@@ -10,7 +10,7 @@ A web application to generate secure passwords with customizable options such as
 - Copy generated password to clipboard
   
 ## Demo
-[Link to demo]()
+[Link to demo](https://codepen.io/Ashwini-Sonawane/pen/yLdmydN)
 
 ## Installation
 1. Clone the repository:
