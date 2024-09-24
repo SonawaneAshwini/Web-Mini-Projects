@@ -14,7 +14,7 @@ This is a simple web-based Personal Finance Manager application that helps you t
 - **Local Storage**: Stores transactions in the browser's local storage, so your data persists across sessions.
 
 ## Demo
-[Link to demo]()
+[Link to demo](https://codepen.io/Ashwini-Sonawane/pen/oNrKXvp)
 
 ## Installation
 1. **Clone the repository:**
