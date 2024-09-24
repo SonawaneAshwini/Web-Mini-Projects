@@ -11,7 +11,7 @@ A simple and interactive Rock Paper Scissors game where a player competes agains
 
 
 ## Demo
-[Link to demo](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV).
+[Link to demo]()
 
 ## Installation
 
