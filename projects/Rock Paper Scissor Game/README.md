@@ -10,7 +10,6 @@ A simple and interactive Rock Paper Scissors game where a player competes agains
 - **Move Counter:** Limits the game to 10 moves per round.
 - **Game Result:** Displays the winner and allows the player to restart the game.
 
-
 ## Demo
 [Link to demo]()
 
