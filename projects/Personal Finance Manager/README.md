@@ -33,7 +33,6 @@ This is a simple web-based Personal Finance Manager application that helps you t
 ## Usage
 
 1. **Add a Transaction:**
-
     - Fill in the transaction name.
     - Enter the amount.
     - Select the type (Income or Expense).
