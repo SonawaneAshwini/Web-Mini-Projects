@@ -51,7 +51,7 @@ For certain projects that may involve additional tooling, follow any specific in
 
 1. Go [**`here`**](https://github.com/SonawaneAshwini/Web-Mini-Projects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/SonawaneAshwini/Web-Mini-Projects/archive/refs/heads/main.zip).
 
- ![Screenshot (360)](https://github.com/SonawaneAshwini/C_ProgrammingProjects/assets/172588428/0def247f-638c-4eee-87b6-b97225690609)
+ 
 
 
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
