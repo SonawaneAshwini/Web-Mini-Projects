@@ -17,7 +17,6 @@ Here is a list of the projects included in this repository:
 |  **07** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrKXvp) |
 |  **08** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link]() | 
 
-
 ## How to Run
 To run these projects locally, follow these steps:
 1. Clone the repository to your local machine:
