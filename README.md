@@ -11,12 +11,12 @@ Here is a list of the projects included in this repository:
 |  **01** | [**Color Palette Picker**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Color%20Palette%20Picker) | [Link](https://codepen.io/Ashwini-Sonawane/pen/dyBWwBK) | 
 |  **02** | [**Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Countdown%20Timer)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/xxodMKp) | 
 |  **03** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
-|  **04** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link](https://codepen.io/Shravan-Dalavi/pen/oNrWLKZ) | 
-|  **04** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
-|  **05** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/rNEXaRe) |
-|  **06** | [**Password Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/yLdmydN) |
-|  **07** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrKXvp) |
-|  **08** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link]() | 
+|  **04** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link]() | 
+|  **05** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
+|  **06** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/rNEXaRe) |
+|  **07** | [**Password Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/yLdmydN) |
+|  **08** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrKXvp) |
+|  **09** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link]() | 
 
 ## How to Run
 To run these projects locally, follow these steps:
