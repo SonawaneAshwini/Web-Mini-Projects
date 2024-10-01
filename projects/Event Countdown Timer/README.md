@@ -12,7 +12,7 @@ A simple web-based countdown timer that allows users to add events and track the
 
 ## Demo
 
-[Link to demo](https://codepen.io/Shravan-Dalavi/pen/xxovaxK)
+[Link to demo]()
 
 ## Installation
 
