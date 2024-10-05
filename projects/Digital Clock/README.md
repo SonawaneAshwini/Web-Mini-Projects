@@ -12,7 +12,6 @@ A simple digital clock that displays the current time based on the selected time
 
 ![image](https://github.com/user-attachments/assets/5ef213c6-9971-40e7-b684-24519f679ff9)
 
-
 ## Installation
 1. Clone the repository:
 ```bash
