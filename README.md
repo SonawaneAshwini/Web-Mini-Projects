@@ -12,13 +12,13 @@ Here is a list of the projects included in this repository:
 |  **02** | [**Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Countdown%20Timer)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/xxodMKp) | 
 |  **03** | [**Daily Journal Web App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Daily%20Journal%20Web%20App)  | [Link]() |
 |  **04** | [**Date Difference Calculator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Date%20Calculate)  | [Link]() | 
-|  **04** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
-|  **05** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link]() | 
-|  **06** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
-|  **07** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/rNEXaRe) |
-|  **08** | [**Password Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/yLdmydN) |
-|  **09** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrKXvp) |
-|  **10** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link]() | 
+|  **05** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
+|  **06** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link]() | 
+|  **07** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
+|  **08** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/rNEXaRe) |
+|  **09** | [**Password Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/yLdmydN) |
+|  **10** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrKXvp) |
+|  **11** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link]() | 
 
 
 
