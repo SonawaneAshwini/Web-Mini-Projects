@@ -14,7 +14,6 @@ A simple web-based journal application that allows users to record their daily t
 [Link to demo]()
 
 
-
 ## Installation
 1. Clone the repository to your local machine:
 ```bash 
