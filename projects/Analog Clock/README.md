@@ -13,6 +13,8 @@ This project is a web-based Analog Clock that displays the current time and date
 ## Demo
 [Link to demo]()
 
+light-mode
+
 ## Installation
 
 1. Clone the repository to your local machine:
