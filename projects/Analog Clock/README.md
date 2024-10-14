@@ -14,6 +14,11 @@ This project is a web-based Analog Clock that displays the current time and date
 [Link to demo]()
 
 light-mode
+![image](https://github.com/user-attachments/assets/d7dfc481-9672-478f-a7ca-5f45a23e5ea0)
+
+dark-mode
+![image](https://github.com/user-attachments/assets/f429fbbb-47b3-44d3-8712-774f7be169a0)
+
 
 ## Installation
 
