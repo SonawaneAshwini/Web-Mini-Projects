@@ -6,19 +6,21 @@ This repository is a collection of mini web projects built with HTML, CSS, and J
 
 ## Projects
 Here is a list of the projects included in this repository:
+
 | **No.** | **Name** |  **Demo** |
 | ------- | -------- | -------- | 
-|  **01** | [**Color Palette Picker**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Color%20Palette%20Picker) | [Link](https://codepen.io/Ashwini-Sonawane/pen/dyBWwBK) | 
-|  **02** | [**Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Countdown%20Timer)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/xxodMKp) | 
-|  **03** | [**Daily Journal Web App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Daily%20Journal%20Web%20App)  | [Link]() |
-|  **04** | [**Date Difference Calculator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Date%20Calculate)  | [Link]() | 
-|  **05** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
-|  **06** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link]() | 
-|  **07** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
-|  **08** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/rNEXaRe) |
-|  **09** | [**Password Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/yLdmydN) |
-|  **10** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrKXvp) |
-|  **11** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link]() | 
+|  **01** | [**Analog Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Analog%20Clock) | [Link]() | 
+|  **02** | [**Color Palette Picker**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Color%20Palette%20Picker) | [Link](https://codepen.io/Ashwini-Sonawane/pen/dyBWwBK) | 
+|  **03** | [**Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Countdown%20Timer)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/xxodMKp) | 
+|  **04** | [**Daily Journal Web App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Daily%20Journal%20Web%20App)  | [Link]() |
+|  **05** | [**Date Difference Calculator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Date%20Calculate)  | [Link]() | 
+|  **06** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
+|  **07** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link]() | 
+|  **08** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
+|  **09** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/rNEXaRe) |
+|  **10** | [**Password Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/yLdmydN) |
+|  **11** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrKXvp) |
+|  **12** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link]() | 
 
 
 ## How to Run
