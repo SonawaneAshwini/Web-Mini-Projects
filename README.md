@@ -30,7 +30,7 @@ To run these projects locally, follow these steps :
     git clone https://github.com/yourusername/Web-Mini-Projects.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory :
     ```bash
     cd Web-Mini-Projects/Project-Name
     ```
