@@ -11,7 +11,6 @@ A simple web application that recommends outfits based on the current weather co
 
 
 ## Installation
-
 1. Clone the repository:
 ```bash
    git clone https://github.com/yourusername/weather-outfit-recommender.git
