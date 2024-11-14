@@ -6,7 +6,6 @@ This repository is a collection of mini web projects built with HTML, CSS, and J
 
 ## Projects
 Here is a list of the projects included in this repository :
-
 | **No.** | **Name** |  **Demo** |
 | ------- | -------- | -------- | 
 |  **01** | [**Analog Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Analog%20Clock) | [Link]() | 
