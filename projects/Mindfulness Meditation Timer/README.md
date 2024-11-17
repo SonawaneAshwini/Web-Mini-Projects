@@ -8,9 +8,10 @@ Responsive Design: Adapts to different screen sizes for a smooth experience on b
 Audio Feedback: Plays a bell sound when the session ends to signal completion.
 
 ## Demo
-[Link to demo](https://codepen.io/Shravan-Dalavi/pen/yLmNvpG)
+[Link to demo](https://57ymkh.csb.app/)
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/19944e7c-9d28-4e57-b1ba-e40e9a5cfb75)
+
 
 ## Installation
 1. Clone the repository to your local machine:
