@@ -64,7 +64,6 @@ For certain projects that may involve additional tooling, follow any specific in
  ![image](https://github.com/user-attachments/assets/5872155c-023d-4046-8a71-0e9bf72d58e1)
 
 
-
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.
     
 3. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
