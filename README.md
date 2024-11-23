@@ -17,7 +17,7 @@ Here is a list of the projects included in this repository :
 |  **06** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
 |  **07** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link]() | 
 |  **08** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
-|  **09** | [**Mindfulness Meditation Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Mindfulness%20Meditation%20Timer) |[Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
+|  **09** | [**Mindfulness Meditation Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Mindfulness%20Meditation%20Timer) |[Link](https://57ymkh.csb.app/) | 
 |  **10** | [**Multi Step Form**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Multi%20Step%20Form)  | [Link](https://7wn8dp.csb.app/) | 
 |  **11** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/rNEXaRe) |
 |  **12** | [**Online Poll Creator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Online%20Poll%20Creator)  | [Link](https://57ymkh.csb.app/) | 
