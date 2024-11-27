@@ -11,6 +11,9 @@ A web-based application that converts text into speech using the browser's built
 ## Demo
 [Link to demo](https://k8xj9s.csb.app/)
 
+![image](https://github.com/user-attachments/assets/1899fe2b-1733-4790-a318-07c28d2774b3)
+
+
 ## Installation
 
 1. Clone the repository:
