@@ -10,7 +10,7 @@ This project is a web-based Analog Clock that displays the current time and date
 - Responsive Design: Adjusts smoothly for different screen sizes, making it usable on both desktop and mobile devices.
 
 ## Demo
-[Link to demo]()
+[Link to demo](https://4nz2kd.csb.app/)
 
 light-mode
 ![image](https://github.com/user-attachments/assets/d7dfc481-9672-478f-a7ca-5f45a23e5ea0)
