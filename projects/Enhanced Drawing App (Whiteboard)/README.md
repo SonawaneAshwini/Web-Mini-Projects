@@ -12,6 +12,12 @@ A browser-based drawing application with a variety of tools and features to unle
 - **Save as Image**: Export your drawing as an image file.
 - **Responsive Design**: Full-screen canvas with a sleek bottom toolbar.
 
+
+## Demo
+[Link to demo](https://tynvtx.csb.app/)
+
+![image](https://github.com/user-attachments/assets/888190bb-143b-4602-8b18-a4704c08bd9c)
+
 ## Installation
 
 1. Clone the repository:
