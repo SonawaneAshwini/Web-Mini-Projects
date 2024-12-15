@@ -15,6 +15,7 @@ Here is a list of the projects included in this repository :
 |  **04** | [**Daily Journal Web App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Daily%20Journal%20Web%20App)  | [Link]() |
 |  **05** | [**Date Difference Calculator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Date%20Calculate)  | [Link]() | 
 |  **06** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
+|  **07** | [**Enhanced Drawing App (Whiteboard)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Enhanced%20Drawing%20App%20(Whiteboard))  | [Link](https://tynvtx.csb.app/) |
 |  **07** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link]() | 
 |  **08** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
 |  **09** | [**Mindfulness Meditation Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Mindfulness%20Meditation%20Timer) |[Link](https://57ymkh.csb.app/) | 
