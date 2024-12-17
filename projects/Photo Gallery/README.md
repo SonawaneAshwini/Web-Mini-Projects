@@ -13,6 +13,8 @@ An interactive ticket management system designed for users to book tickets, view
 ## Demo
 [Link to demo](https://lf36l9.csb.app/)
 
+![image](https://github.com/user-attachments/assets/47833e95-c698-4862-beb1-1fb2c45f084a)
+
 
 ## Installation
 
