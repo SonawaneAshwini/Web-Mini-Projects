@@ -95,6 +95,9 @@ This project is licensed under the MIT License. See the [LICENSE file](https://g
   - GitHub: [Profile]( https://github.com/ShravanDalavi)
 
 ### Feedback and Support
-If you enjoyed this tutorial, don't forget to ⭐ star the repository and follow for updates.
+We value your input! If you encounter any issues or have suggestions, please open an issue in this repository. Your feedback helps us improve!
 
-Thank you for exploring this repository! I hope you find these projects both interesting and useful. 😊
+### Show Your Support
+**If you enjoyed this tutorial, don't forget to [⭐ star the repository](https://github.com/SonawaneAshwini/Web-Mini-Projects) and [follow for updates](https://github.com/SonawaneAshwini).**
+
+**Thank you for exploring this repository! I hope you find these projects both interesting and useful. 😊**
