@@ -22,11 +22,11 @@ This is a user-friendly web application that allows users to generate short link
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/short-link-generator.git
+    git clone https://github.com/SonawaneAshwini/Web-Mini-Projects.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd short-link-generator
+    cd Web-Mini-Projects/projects/Short\ Link\ Generator
     ```
 3. Open the `index.html` file in your web browser:
     ```bash
