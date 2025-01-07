@@ -14,7 +14,7 @@ Here is a list of the projects included in this repository :
 |  **02** | [**Color Palette Picker**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Color%20Palette%20Picker) | [Link](https://codepen.io/Ashwini-Sonawane/pen/dyBWwBK) | 
 |  **03** | [**Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Countdown%20Timer)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/xxodMKp) | 
 |  **04** | [**Daily Journal Web App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Daily%20Journal%20Web%20App)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/MYgrrZv) |
-|  **05** | [**Date Difference Calculator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Date%20Calculate)  | [Link]() | 
+|  **05** | [**Date Difference Calculator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Date%20Calculate)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/gbYooqO) | 
 |  **06** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
 |  **07** | [**Enhanced Drawing App (Whiteboard)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Enhanced%20Drawing%20App%20(Whiteboard))  | [Link](https://tynvtx.csb.app/) |
 |  **08** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link]() | 
