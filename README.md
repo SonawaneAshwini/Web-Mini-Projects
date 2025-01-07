@@ -17,7 +17,7 @@ Here is a list of the projects included in this repository :
 |  **05** | [**Date Difference Calculator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Date%20Calculate)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/gbYooqO) | 
 |  **06** | [**Digital Clock**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/XWLZNXG) | 
 |  **07** | [**Enhanced Drawing App (Whiteboard)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Enhanced%20Drawing%20App%20(Whiteboard))  | [Link](https://tynvtx.csb.app/) |
-|  **08** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link]() | 
+|  **08** | [**Event Countdown Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/PwYEELw) | 
 |  **09** | [**Image-Search**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Image-Search)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/oNrEYLX) | 
 |  **10** | [**Mindfulness Meditation Timer**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Mindfulness%20Meditation%20Timer) |[Link](https://57ymkh.csb.app/) | 
 |  **11** | [**Multi Step Form**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Multi%20Step%20Form)  | [Link](https://7wn8dp.csb.app/) | 
