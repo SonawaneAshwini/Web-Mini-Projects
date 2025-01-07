@@ -26,7 +26,7 @@ Here is a list of the projects included in this repository :
 |  **14** | [**Password Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/yLdmydN) |
 |  **15** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://7t8kht.csb.app/) |
 |  **16** | [**Photo Gallery**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Photo%20Gallery)  | [Link](https://lf36l9.csb.app/) |
-|  **17** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link]() | 
+|  **17** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/PwYEEgw) | 
 |  **18** | [**Short Link Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Short%20Link%20Generator)  | [Link](https://qws2hl.csb.app/) 
 |  **19** | [**Speech Reader (Text to Speech)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Speech%20Reader%20(Text%20to%20Speech%20))| [Link](https://k8xj9s.csb.app/) | 
 |  **20** | [**Ticket Management System**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Ticket%20Management)  | [Link](https://2jt5ft.csb.app/) | 
