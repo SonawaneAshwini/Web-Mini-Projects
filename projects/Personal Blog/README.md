@@ -8,13 +8,13 @@ A dynamic, responsive, and interactive personal blogging platform where users ca
 - Custom Styling: Uses CSS animations, transitions, and themes for a visually appealing interface.
 - Dark Mode: Toggle dark mode for better accessibility and reduced eye strain.
 ## Demo
-[Link to demo](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL).
+[Link to demo]().
 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-generator.git
-cd password-generator
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
+cd Web-Mini-Projects/projects/Personal\ Blog
 ```
 2. Open index.html in your preferred browser.
 
