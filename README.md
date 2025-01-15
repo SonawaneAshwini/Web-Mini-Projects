@@ -24,13 +24,14 @@ Here is a list of the projects included in this repository :
 |  **12** | [**Notes App**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/rNEXaRe) |
 |  **13** | [**Online Poll Creator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Online%20Poll%20Creator)  | [Link](https://57ymkh.csb.app/) | 
 |  **14** | [**Password Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/yLdmydN) |
-|  **15** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://7t8kht.csb.app/) |
-|  **16** | [**Photo Gallery**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Photo%20Gallery)  | [Link](https://lf36l9.csb.app/) |
-|  **17** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/PwYEEgw) | 
-|  **18** | [**Short Link Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Short%20Link%20Generator)  | [Link](https://qws2hl.csb.app/) 
-|  **19** | [**Speech Reader (Text to Speech)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Speech%20Reader%20(Text%20to%20Speech%20))| [Link](https://k8xj9s.csb.app/) | 
-|  **20** | [**Ticket Management System**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Ticket%20Management)  | [Link](https://2jt5ft.csb.app/) | 
-|  **21** | [**Weather-Based Outfit Recommender**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Weather%20Based%20Outfit%20Recommender)  | [Link](https://fhrwcx.csb.app/) |
+|  **15** | [**Personal Blog**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Blog)  | [Link](https://tsr2xq.csb.app/index.html) | 
+|  **16** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://7t8kht.csb.app/) |
+|  **17** | [**Photo Gallery**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Photo%20Gallery)  | [Link](https://lf36l9.csb.app/) |
+|  **18** | [**Rock Paper Scissors Game**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link](https://codepen.io/Ashwini-Sonawane/pen/PwYEEgw) | 
+|  **19** | [**Short Link Generator**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Short%20Link%20Generator)  | [Link](https://qws2hl.csb.app/) 
+|  **20** | [**Speech Reader (Text to Speech)**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Speech%20Reader%20(Text%20to%20Speech%20))| [Link](https://k8xj9s.csb.app/) | 
+|  **21** | [**Ticket Management System**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Ticket%20Management)  | [Link](https://2jt5ft.csb.app/) | 
+|  **22** | [**Weather-Based Outfit Recommender**](https://github.com/SonawaneAshwini/Web-Mini-Projects/tree/main/projects/Weather%20Based%20Outfit%20Recommender)  | [Link](https://fhrwcx.csb.app/) |
 
 
 ## How to Run
