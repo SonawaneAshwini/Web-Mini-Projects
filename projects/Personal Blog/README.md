@@ -10,6 +10,9 @@ A dynamic, responsive, and interactive personal blogging platform where users ca
 ## Demo
 [Link to demo](https://tsr2xq.csb.app/index.html)
 
+![image](https://github.com/user-attachments/assets/0876fc23-db7c-4d56-a7a1-9a48a1ac2386)
+
+
 ## Installation
 1. Clone the repository:
 ```bash
